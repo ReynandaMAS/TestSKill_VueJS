@@ -18,6 +18,5 @@ Competency test held by a group for the position of frontend developer
 ## FAQ
 
 If you have any questions or difficulties using this repo, please open an issue or visit my social media or portfolio on my github profile.
-
-### HAPPY CODE
 <!-- ryn -->
+Code Profesional
