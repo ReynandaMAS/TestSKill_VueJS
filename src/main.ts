@@ -13,3 +13,5 @@ app.use(router);
 app.component('Icon', Icon);
 app.mount('#app');
 // 
+
+export default app;
